@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipo>
+    <nombreEquipo>F.C Barcelona</nombreEquipo>
+    <campo>Estadio Olímpico de Montjuic</campo>
+    <entrenador>
+        <nombre>Hansi Flick</nombre>
+        <lugarNacimiento>Heidelberg, Alemania</lugarNacimiento>
+        <añoNacimiento>1965</añoNacimiento>
+    </entrenador>
+    <plantilla>
+        <jugador>
+            <nombre>Pedri</nombre>
+            <lugarNacimiento>Tenerife</lugarNacimiento>
+            <añoNacimiento>2002</añoNacimiento>
+            <altura>1.74m</altura>
+            <peso>60kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Lamine Yamal</nombre>
+            <lugarNacimiento> Esplugues de Llobregat</lugarNacimiento>
+            <añoNacimiento>2007</añoNacimiento>
+            <altura>1.8m</altura>
+            <peso>72kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Robert Lewandowski</nombre>
+            <lugarNacimiento>Varsovia, Polonia</lugarNacimiento>
+            <añoNacimiento>1988</añoNacimiento>
+            <altura>1.85m</altura>
+            <peso>81kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Kundé</nombre>
+            <lugarNacimiento>París, Francia</lugarNacimiento>
+            <añoNacimiento>1998</añoNacimiento>
+            <altura>1.8m</altura>
+            <peso>75kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Raphinha</nombre>
+            <lugarNacimiento>Porto Alegre, Brasil</lugarNacimiento>
+            <añoNacimiento>1996</añoNacimiento>
+            <altura>1.76</altura>
+            <peso>68kg</peso>
+        </jugador>
+    </plantilla>
+</equipo>

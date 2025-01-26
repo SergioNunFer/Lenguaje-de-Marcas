@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="ejercicio3.css"?>
+<cd>
+    <parteSuperior>
+        <imagenCd></imagenCd>
+        <infoCd>
+            <artista>Artista: ABC (2)</artista>
+            <titulo>Título: The Collection</titulo>
+            <sello>Sello: Karussell International</sello>
+            <referencia>Referencia: 551 831-2</referencia>
+            <año>Año: 1996</año>
+            <pais>País: Germany</pais>
+            <formato>Formato: CD - Compilation</formato>
+            <genero>Género: Funk / Soul, Electronic</genero>
+            <estilo>Estilo: Funk Disco, Synth Pop</estilo>
+            <observaciones>Observaciones: Licensed from Mercury Records Ltd (London)</observaciones>
+        </infoCd>
+    </parteSuperior>
+    <canciones>
+        <infoCancion>CD-1</infoCancion>
+        <infoCancion>01 Poison Arrow - [03:23]</infoCancion>
+        <infoCancion>02 The Look of Love (Part One) - [03:29]</infoCancion>
+        <infoCancion >03 The Night Murdered Love - [04:53]</infoCancion>
+        <infoCancion>04 Tears Are Not Enough - [03:29]</infoCancion>
+        <infoCancion>05  Be Near Me - [03:37]</infoCancion>
+        <infoCancion>06 I'm In Love With You - [04:35]</infoCancion>
+        <infoCancion>07 The Real King - [04:54]</infoCancion>
+        <infoCancion>08 Love's A Dangerous Laguage - [03:40]</infoCancion>
+        <infoCancion>09 The Greatest Love Of All - [05:34]</infoCancion>
+        <infoCancion>10 When Smokey Sings - [04:18]</infoCancion>
+        <infoCancion>11 One Better World - [05:38]</infoCancion>
+        <infoCancion>12 Vanity Kills - [03:29]</infoCancion>
+        <infoCancion>13 Bite The Hand - [03:07]</infoCancion>
+        <infoCancion>14 Chicago (Abridged) - [03:40]</infoCancion>
+        <infoCancion>15 Minneapolis - [02:57]</infoCancion>
+        <infoCancion>16 Think Again - [03:39]</infoCancion>
+        <infoCancion>17 Never More Than Now - [06:03]</infoCancion>
+        <infoCancion>18 All Of My Heart - [04:49]</infoCancion>
+    </canciones>
+</cd>
