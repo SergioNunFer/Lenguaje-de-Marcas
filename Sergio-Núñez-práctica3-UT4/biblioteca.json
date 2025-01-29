@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Título: To Kill a Mockingbird",
+        "author": "Autor: Harper Lee",
+        "genre": "Género: Fiction",
+        "year": "Año de publicación: 1960",
+        "cover": "01374084_to-kill-a-mockingbird.jpg"
+    },
+    {
+        "title": "Título: The Great Gatsby",
+        "author": "Autor: F. Scott Fitzgerald",
+        "genre": "Género: Classics",
+        "year": "Año de publicación: 1925",
+        "cover": "The Great Gatsby.jpg"
+    },
+    
+    {
+        "title": "Título: The Hobbit",
+        "author": "Autor: J.R.R. Tolkien",
+        "genre": "Género: Fantasy",
+        "year": "Año de publicación: 1937",
+        "cover": "The Hobbit.jpg"
+    },
+    {
+        "title": "Título: Pride and Prejudice",
+        "author": "Autor: Jane Austen",
+        "genre": "Género: Romance",
+        "year": "Año de publicación: 1813",
+        "cover": "Pride and Prejudice.jpg"
+    },
+    {
+        "title": "Título: 1984",
+        "author": "Autor: George Orwell",
+        "genre": "Género: Dystopian",
+        "year": "Año de publicación: 1949",
+        "cover": "1984.jpg"
+    }
+]
