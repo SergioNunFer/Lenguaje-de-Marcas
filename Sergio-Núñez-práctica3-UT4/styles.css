@@ -42,12 +42,13 @@ section{
     transform: scale(1.02);
 }
 .card:hover img{
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.644);
     transform: translateY(-30px) scale(1.1);
 }
 
 .card img{
     width: 50%;
-    transition: transform 0.3s ease-in-out;
+    transition: transform 0.25s ease-in-out, box-shadow 0.35s ease-in-out;
     align-self: center;
 }
 .card p,h2,.author{
@@ -68,6 +69,6 @@ section{
 
 @media (max-width: 768px) {
     .card {
-    width: 100%;
+        width: 100%;
     }
 }
