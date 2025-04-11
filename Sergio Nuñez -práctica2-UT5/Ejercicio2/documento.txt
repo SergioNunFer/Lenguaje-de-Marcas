@@ -1,0 +1,4 @@
+r:Bienvenido a este simulador de mensajes.
+e:Elige quien quieres que envíe el mensaje en el menú situado a la izquierda de la barra de mansaje.
+r:Escribe tu mensaje, y dale a enviar.
+e:¡Te invito a que lo pruebes!

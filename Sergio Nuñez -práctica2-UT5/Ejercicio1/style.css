@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#contenedor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.precio-minimo {
+    background-color: lightgreen;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-style: italic;
+    font-weight: bold;
+}
+.precio-normal {
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-style: italic;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+th, td {
+    border: 1px solid #ddd; 
+    padding: 10px;
+}
+
+th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+}

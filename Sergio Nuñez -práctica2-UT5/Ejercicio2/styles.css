@@ -1,0 +1,83 @@
+body {
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.chat {
+    background-color: #ffffff;
+    border-radius: 10px;
+    width: 90%;
+    max-width: 600px;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.chat-box {
+    padding: 20px;
+    flex: 1;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.mensaje {
+    padding: 12px 18px;
+    border-radius: 20px;
+    max-width: 70%;
+    word-break: break-word;
+    font-size: 16px;
+}
+
+.izquierda {
+    background-color: #d1e7dd;
+    align-self: flex-start;
+    text-align: left;
+}
+
+.derecha {
+    background-color: #cfe2ff;
+    align-self: flex-end;
+    text-align: right;
+}
+
+.barra-escribir {
+    display: flex;
+    border-top: 1px solid #ddd;
+    padding: 10px;
+    gap: 10px;
+}
+
+.barra-escribir select,
+.barra-escribir input {
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    outline: none;
+}
+
+.barra-escribir select {
+    width: 80px;
+}
+
+.barra-escribir input {
+    flex: 1;
+}
+
+.barra-escribir button {
+    padding: 10px 16px;
+    border: none;
+    background-color: #0d6efd;
+    color: white;
+    border-radius: 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
